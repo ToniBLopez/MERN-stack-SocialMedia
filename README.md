@@ -1,2 +1,3 @@
-# MERN-stack-SocialMedia
-This is a Social Media application created with the MERN stack 🏛️
+# MERN stack Social Media 🏛️
+
+This is a Social Media application created with the MERN stack
